@@ -9,6 +9,9 @@
 **哈希表：**  
 [有效数独](https://github.com/FaQuQ/LeeCodeLog/tree/master/src/%E6%9C%89%E6%95%88%E6%95%B0%E7%8B%AC)
 
+**博弈论：**  
+[Nim游戏](https://github.com/FaQuQ/LeeCodeLog/tree/master/src/Nim%E6%B8%B8%E6%88%8F)
+
     
     
     
