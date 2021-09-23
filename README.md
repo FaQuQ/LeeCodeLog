@@ -12,7 +12,9 @@
 **博弈论：**  
 [Nim游戏](https://github.com/FaQuQ/LeeCodeLog/tree/master/src/Nim%E6%B8%B8%E6%88%8F)
 
-    
+**数学基础：**  
+[3的幂](https://github.com/FaQuQ/LeeCodeLog/tree/master/src/%E6%95%B0%E5%AD%973%E7%9A%84%E5%B9%82)
+
     
     
     
