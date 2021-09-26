@@ -12,6 +12,15 @@
 **博弈论：**  
 [Nim游戏](https://github.com/FaQuQ/LeeCodeLog/tree/master/src/Nim%E6%B8%B8%E6%88%8F)
 
+**动态规划dp：**  
+[两个字符串删除操作](https://github.com/FaQuQ/LeeCodeLog/tree/master/src/两个字符串删除操作)
+
+**位运算：**  
+[两整数之和](https://github.com/FaQuQ/LeeCodeLog/tree/master/src/两整数之和)
+
+**数学：**  
+[整数反转](https://github.com/FaQuQ/LeeCodeLog/tree/master/src/整数反转)
+
     
     
     
