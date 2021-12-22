@@ -1,13 +1,14 @@
-package 数字3的幂;
+package 数字三的幂;
 
-//326. 3的幂
-//        给定一个整数，写一个函数来判断它是否是 3 的幂次方。如果是，返回 true ；否则，返回 false 。
-//
-//        整数 n 是 3 的幂次方需满足：存在整数 x 使得 n == 3x
-//https://leetcode-cn.com/problems/power-of-three/
-
+/**
+ * @ClassName Solution
+ * //326. 3的幂
+ * //        给定一个整数，写一个函数来判断它是否是 3 的幂次方。如果是，返回 true ；否则，返回 false 。
+ * //
+ * //        整数 n 是 3 的幂次方需满足：存在整数 x 使得 n == 3x
+ * //https://leetcode-cn.com/problems/power-of-three/
+ **/
 public class Solution {
-
     /***
      * 倍数 & 约数
      * 题目要求不能使用循环或递归来做，而传参 n 的数据类型为 int，这引导我们首先分析出 int 范围内的最大 3 次幂是多少，约为 3^{19} = 11622614673
@@ -31,5 +32,4 @@ public class Solution {
         return n > 0 && 1162261467 % n == 0;
 
     }
-
 }
